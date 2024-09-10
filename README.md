@@ -2,9 +2,12 @@
 
 I am happy to welcome you to my Github profile.
 
-I have a huge passion and strong interest in Test Automation and am on my way to becoming an aspiring Software Development Engineer in Test. I consider myself a lifelong learner who is always eager to acquire and master new skills.
+**I am a QA Analyst with 10+ year experience in web products, embedded and banking domains.** I have a huge passion and strong interest in Test Automation and am on my way to a Software Development Engineer in Test. I consider myself a lifelong learner who is always eager to acquire and master new skills.
 
 📫 You can find me on [LinkedIn](https://www.linkedin.com/in/yuliiasalaman/)
+
+
+
 <!--
 **yuliiasv/yuliiasv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
