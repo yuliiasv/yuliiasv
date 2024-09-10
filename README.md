@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hi there I'm Yuliia Salaman👋
 
+I am happy to welcome you to my Github profile.
+
+I have a huge passion and strong interest in Software testing and am on my way to becoming an aspiring Software Development Engineer in Test. I consider myself a lifelong learner who is always eager to acquire and master new skills.
+
+📫 You can find me on [LinkedIn]([url](https://www.linkedin.com/in/yuliiasalaman/))
 <!--
 **yuliiasv/yuliiasv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
